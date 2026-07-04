@@ -1,7 +1,7 @@
 # Gym-Management-System
 A Java desktop application that manages gym memberships using core  Object-Oriented Programming principles.
 
-# Features
+## Features
 - Add, activate, and deactivate memberships
 - Mark member attendance and track loyalty points
 - Upgrade membership plans
@@ -11,7 +11,7 @@ A Java desktop application that manages gym memberships using core  Object-Orien
 - Save and load member data via text file I/O
 - GUI built with Java Swing
 
-# Techs Used
+## Techs Used
 - Language: Java
 - IDE: BlueJ
 - Design tools: Figma (wireframes), Draw.io (class diagrams)
